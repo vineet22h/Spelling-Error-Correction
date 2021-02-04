@@ -13,6 +13,9 @@ spelling improvements, evaluating articles, etc. These all mentioned tasks are d
 manually so, by automating this process we can save both time and money for the
 company.
 
+# Blog Link:
+https://vineethaswani2.medium.com/spelling-error-correction-7154f781354c
+
 # Screenshots
 ![alt text](https://github.com/vineet22h/Spelling-Error-Correction/blob/main/screenshots/front.png)
 ![alt text](https://github.com/vineet22h/Spelling-Error-Correction/blob/main/screenshots/translate.png)
