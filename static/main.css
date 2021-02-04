@@ -1,0 +1,31 @@
+.col {
+    text-align: center;
+    color: #2454ad;
+    font-size: 2.5rem;
+}
+
+.table-responsive {
+    margin: 16.9rem auto;
+}
+
+.text-1 {
+    border-right: 1px solid rgb(63, 63, 63) ;
+}
+
+textarea {
+  display: block;
+  width: 50rem;
+  overflow: hidden;
+  resize: both;
+  min-height: 31rem;
+  border: none;
+  font-family: inherit;
+  padding: 1px 6px;
+  font-size: 5rem;
+  outline: none;
+
+}
+
+.back-color{  
+    background-color: #F8F9FA;
+}
